@@ -1,0 +1,4 @@
+<?php
+    $a = "aaa";
+    phpinfo();
+?>
